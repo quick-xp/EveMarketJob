@@ -1,6 +1,6 @@
 EveMarketJob
 ======================
-Hadoopを使用して、Eve-Central(http://eve-central.com)で出力されるマーケットデータを集計する
+Hadoopを使用して、Eve-Central( http://eve-central.com )で出力されるマーケットデータを集計する
 現在は各ソーラーシステム毎の品目別売上数、売上合計金額を出力する機能のみ実装しています。
 
 使い方
